@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 💬 Ask me about ** html 5, vanilla css,vanilla javascript ,react,ruby,PHP,Python**
+- 💬 Ask me about **Html 5, Vanilla css,Vanilla Javascript ,React, Ruby on Rails, PHP,Python**
 
 - 📫 How to reach me **giddykarugo@gmail.com**
 
